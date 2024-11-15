@@ -152,5 +152,3 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 For any suggestions or improvements, feel free to open an issue in the GitHub repository.
 
 ---
-
-Feel free to tweak this to fit your style or add any additional information specific to your implementation. If you need any more help, just let me know!
