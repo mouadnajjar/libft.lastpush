@@ -1,5 +1,3 @@
-Sure! Here's a professional `README.md` template for your `libft` project that you can use or customize:
-
 ---
 
 # libft
