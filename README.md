@@ -149,6 +149,6 @@ else
 
 Contributions to this project are welcome! If you'd like to contribute, please fork the repository, make your changes, and create a pull request. Ensure that your code follows the project's coding style and passes any provided tests.
 
-For any suggestions or improvements, feel free to open an issue in the GitHub repository.
+
 
 ---
